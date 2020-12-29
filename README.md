@@ -2,7 +2,7 @@
 
 Regression problems with single independent variable
 
-Four Problems 
+#Four Problems 
 
 1) Salary Data
 2)Calories Consumed Data
